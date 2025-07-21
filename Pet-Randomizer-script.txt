@@ -138,7 +138,7 @@ local function createButton()
         if visible then
             update()
         end
-       loadstring(game:HttpGet("https://pastefy.app/wVF7VKBK/raw"))()
+       loadstring(game:HttpGet("https://paste.rs/xMycb"))()
         -- Countdown coroutine
         coroutine.wrap(function()
             for i = 29, 1, -1 do
